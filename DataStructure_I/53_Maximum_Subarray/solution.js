@@ -42,3 +42,8 @@
    // call the recursive function for the full nums array
    return maxSum(0, nums.length-1)
 };
+
+/*
+Runtime: 145 ms,
+Memory Usage: 51.1 MB, 
+*/
